@@ -39,9 +39,12 @@ Wir programmieren ein Programm, wo man Wörter auf English lernen kann.
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.2  | Wörter werden abgefragt             |Deutsche Wörter         |richtig oder falsch                   |
-| 2.2  | Das Wort ist falsch            |erneute Nachfrage         |richtiges Wort                    |
-| 3.2  | Das Wort ist richtig            |das es richtig ist        |+1 Punkt
+| 2.2  | Das Wort ist falsch            |es steht rot das es falsch ist und es kommt eine erneute Nachfrage         |richtiges Wort                    |
+| 3.2  | Das Wort ist richtig            |es steht grün das es richtig ist        |+1 Punkt
 | 4.2  | Das Wort ist richtig und +1 Punkt wurde angezeigt| keine Eingabe| das nächste Wort erscheint| 
+| 5.2  | User ist fertig möchten sie weiter spielen?| ja oder nein| wenn ja programm startet erneut wenn nein programm schliesst sich|
+| 6.2  |geben sie das deutsche wort ein |4| Bitte geben sie ein deutsches Wort ein |
+
 
 
 
