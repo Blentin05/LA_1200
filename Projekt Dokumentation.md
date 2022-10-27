@@ -20,12 +20,16 @@ Wir programmieren ein Programm, wo man Wörter auf English lernen kann.
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | funktional                |muss      | Als User möchte ich, dass ein englisches Wort angezeigt wird, damit ich das deutsche Wort aufschreiben muss. |
+| 1    | funktional                |muss      | Als User möchte ich, dass ein englisches Wort angezeigt wird, damit ich das deutsche Wort aufschreiben kann. |
 | 2  | funktional                |muss      | Als User möchte ich, dass richtig oder falsch ausgegeben wird, damit ich weiss ob ich das Wort richtig oder falsch geschrieben habe.                                   |
 | 3 | funktional                |muss      | Als User möchte ich, dass das richtige Wort ausgegeben wird, damit ich das Wort solange eingeben kann bis es richtig ist.                                   |
-| 4 | funktional              |muss      | Als User möchte ich, dass wenn das Wort beim ersten Versuch richtig erratten wurde, immer +1 Punkt ausgegeben wird, damit am Schluss alle Punkte zusammengerechnet werden können.                                   |
+| 4 | funktional              |muss      | Als User möchte ich, dass wenn das Wort beim ersten Versuch richtig erratten wurde, immer +1 Punkt generiert und ausgegeben wird, damit am Schluss alle Punkte zusammengerechnet werden können. |
 | 5 | funktional  |muss      | Als User möchte ich, dass wenn ein Wort richtig eingegeben wurde das nächste Wort ausgegeben wird, damit man das nächste Wort wieder eingeben kann.                      |
-| 6 | funktional  |muss      | Als User möchte ich, dass wenn ein Wort richtig eingegeben wurde das nächste Wort ausgegeben wird, damit man das nächste Wort wieder eingeben kann.                      |
+| 6 | funktional  |muss      | Als User möchte ich, dass am Schluss die gesamten Punkte zusammengezählt werden, damit ausgegeben werden kann wieviel Punkte ich erreicht habe.                    |
+| 7 | funktional  |muss      | Als User möchte ich, dass gefragt wird ob ich das Programm nochmal starten kann, damit ich die Wörter solange lernen kann, bis ich alles richtig habe.                     |
+| 8 | qualität  |kann     | Als User möchte ich, dass wenn ich alle Wörter richtig geschrieben habe, am Schluss ausgegeben wird "Glückwunsch Sie haben x Punkte erreicht, damit ich mich freue.  |
+| 9 | qualität  |kann     | Als User möchte ich, dass wenn ein Wort richtig eingegeben wurde, das Wort grüm angezeigt wird und das falsche Wort rot, damit es mir besser ins Auge sticht.  |
+
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -47,7 +51,7 @@ Wir programmieren ein Programm, wo man Wörter auf English lernen kann.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
+| 1.1  |       |           |              |               |
 | ...  |       |           |              |               |
 
 Total: 
