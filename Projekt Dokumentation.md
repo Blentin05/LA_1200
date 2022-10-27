@@ -44,6 +44,7 @@ Wir programmieren ein Programm, wo man Wörter auf English lernen kann.
 | 4.2  | Das Wort ist richtig und +1 Punkt wurde angezeigt| keine Eingabe| das nächste Wort erscheint| 
 | 5.2  | User ist fertig möchten sie weiter spielen?| ja oder nein| wenn ja programm startet erneut wenn nein programm schliesst sich|
 | 6.2  |geben sie das deutsche wort ein |4| Bitte geben sie ein deutsches Wort ein |
+| 7.2  |wenn fertig|-|anzahl Punkte|
 
 
 
