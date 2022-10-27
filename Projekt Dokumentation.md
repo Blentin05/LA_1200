@@ -63,7 +63,8 @@ Wir programmieren ein Programm, wo man Wörter auf English lernen kann.
 | 5.A  | 03.11.2022      |           | US 5           | 45 min               |
 | 6.A  | 10.11.2022      |           | US 6           | 45 min               |
 | 7.A  | 10.11.2022      |           | US 7           | 2 * 45 min               |
-| 8.A  | 10.11.2022      |           | US 7           | 2 * 45 min               |
+| 8.A  | 10.11.2022      |           | US 8           | 2 * 45 min               |
+| 9.A  | 10.11.2022      |           | US 9           | 2 * 45 min               |
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
