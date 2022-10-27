@@ -25,11 +25,12 @@ Wir programmieren ein Programm, wo man Wörter auf English lernen kann.
 | 3 | funktional                |muss      | Als User möchte ich, dass das richtige Wort ausgegeben wird, damit ich das Wort solange eingeben kann bis es richtig ist.                                   |
 | 4 | funktional              |muss      | Als User möchte ich, dass wenn das Wort beim ersten Versuch richtig erratten wurde, immer +1 Punkt ausgegeben wird, damit am Schluss alle Punkte zusammengerechnet werden können.                                   |
 | 5 | funktional  |muss      | Als User möchte ich, dass wenn ein Wort richtig eingegeben wurde das nächste Wort ausgegeben wird, damit man das nächste Wort wieder eingeben kann.                      |
-| 6 | funktional  |muss      | Als User möchte ich, dass wenn ein Wort richtig eingegeben wurde das nächste Wort ausgegeben wird, damit man das nächste Wort wieder eingeben kann.                      |
-| 7| qualität  |kann      |Als User möchte ich, dass wenn das Wort richtig eingegeben wurde, das Wort grün angezeigt wird und bei falscher Eingabe rot.                     |
-| 8 | funktional  |muss      | Als User möchte ich, dass wenn ich fertig bin das Programm mich fragt, ob ich das Programm neustarten möchte.                      |
-| 9 | funktional  |muss      | Als User möchte ich, dass das Programm mit Fehleingaben umgehen kann.                     |
+| 6 | qualität  |kann      |Als User möchte ich, dass wenn das Wort richtig eingegeben wurde, das Wort grün angezeigt wird und bei falscher Eingabe rot, damit mir die richtigen und falschen Wörter besser ins Auge stechen.               |
+| 7 | funktional  |muss      | Als User möchte ich, dass wenn ich fertig bin das Programm mich fragt, ob ich das Programm neustarten möchte, damit ich wieder lernen kann.                    |
+| 8 | funktional  |muss      | Als User möchte ich, dass das Programm mit Fehleingaben umgehen kann, damit ich keine Zahl oder andere Eingaben eingeben kann.                    |
+| 9 | funktional  |muss      | Als User möchte ich, dass das Programm schön gestaltet habe, damit ich mehr Motivation habe zu lernen.                    |
 
+  
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -39,13 +40,9 @@ Wir programmieren ein Programm, wo man Wörter auf English lernen kann.
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.2  | Wörter werden abgefragt             |Deutsche Wörter         |richtig oder falsch                   |
-| 2.2  | Das Wort ist falsch            |es steht rot das es falsch ist und es kommt eine erneute Nachfrage         |richtiges Wort                    |
-| 3.2  | Das Wort ist richtig            |es steht grün das es richtig ist        |+1 Punkt
+| 2.2  | Das Wort ist falsch            |erneute Nachfrage         |richtiges Wort                    |
+| 3.2  | Das Wort ist richtig            |das es richtig ist        |+1 Punkt
 | 4.2  | Das Wort ist richtig und +1 Punkt wurde angezeigt| keine Eingabe| das nächste Wort erscheint| 
-| 5.2  | User ist fertig möchten sie weiter spielen?| ja oder nein| wenn ja programm startet erneut wenn nein programm schliesst sich|
-| 6.2  |geben sie das deutsche wort ein |4| Bitte geben sie ein deutsches Wort ein |
-| 7.2  |wenn fertig|-|anzahl Punkte|
-
 
 
 
@@ -59,9 +56,14 @@ Wir programmieren ein Programm, wo man Wörter auf English lernen kann.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A |  03.11.2022     |           | US 1             |  45 min             |
-| 2.A  | 03.11.2022      |           | US 2             | 90 min               |
-
+| 1.A |  03.11.2022      |           | US 1             |  45 min             |
+| 2.A  | 03.11.2022      |           | US 2             | 2 * 45 min               |
+| 3.A  | 03.11.2022      |           | US 3             | 2 * 45 min               |
+| 4.A  | 03.11.2022      |           | US 4           | 2 * 45 min               |
+| 5.A  | 03.11.2022      |           | US 5           | 45 min               |
+| 6.A  | 10.11.2022      |           | US 6           | 45 min               |
+| 7.A  | 10.11.2022      |           | US 7           | 2 * 45 min               |
+| 8.A  | 10.11.2022      |           | US 7           | 2 * 45 min               |
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
