@@ -5,10 +5,10 @@
 Deer Broder, Dakaj, Yildirim, Tosuni
 
 | Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 27.10.2022| 001| Wir haben uns zuerst informiert, über das Thema. Dann haben wir die User Stories erstellt, die Testfälle erstellt, das Diagramm erstellt und geplant.|
+|       |    |  |
+|       |     |                                                              |
+|       |   |                                                              |
 
 ## 1 Informieren
 
@@ -27,8 +27,8 @@ Wir programmieren ein Programm, wo man Wörter auf English lernen kann.
 | 5 | funktional  |muss      | Als User möchte ich, dass wenn ein Wort richtig eingegeben wurde das nächste Wort ausgegeben wird, damit man das nächste Wort wieder eingeben kann.                      |
 | 6 | qualität  |kann      |Als User möchte ich, dass wenn das Wort richtig eingegeben wurde, das Wort grün angezeigt wird und bei falscher Eingabe rot, damit mir die richtigen und falschen Wörter besser ins Auge stechen.               |
 | 7 | funktional  |muss      | Als User möchte ich, dass wenn ich fertig bin das Programm mich fragt, ob ich das Programm neustarten möchte, damit ich wieder lernen kann.                    |
-| 8 | funktional  |muss      | Als User möchte ich, dass das Programm mit Fehleingaben umgehen kann, damit ich keine Zahl oder andere Eingaben eingeben kann.                    |
-| 9 | funktional  |muss      | Als User möchte ich, dass das Programm schön gestaltet habe, damit ich mehr Motivation habe zu lernen.                    |
+| 8 | funktional  |muss      | Als User möchte ich, dass das Programm mit Fehleingaben umgehen kann, damit ich keine Zahl oder andere Eingaben eingeben kann.          |
+
 
   
 
@@ -62,21 +62,20 @@ Wir programmieren ein Programm, wo man Wörter auf English lernen kann.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A |  03.11.2022      |           | US 1             |  45 min             |
-| 2.A  | 03.11.2022      |           | US 2             | 2 * 45 min               |
-| 3.A  | 03.11.2022      |           | US 3             | 2 * 45 min               |
-| 4.A  | 03.11.2022      |           | US 4           | 2 * 45 min               |
-| 5.A  | 03.11.2022      |           | US 5           | 45 min               |
-| 6.A  | 10.11.2022      |           | US 6           | 45 min               |
-| 7.A  | 10.11.2022      |           | US 7           | 2 * 45 min               |
-| 8.A  | 10.11.2022      |           | US 8           | 2 * 45 min               |
-| 9.A  | 10.11.2022      |           | US 9           | 2 * 45 min               |
-Total: 675 min
+| 1.A |  03.11.2022      |           | US 1             | 2 *  45 min             |
+| 2.A  | 10.11.2022      |           | US 2             | 2 * 45 min               |
+| 3.A  | 10.11.2022      |           | US 3             | 2 * 45 min               |
+| 4.A  | 10.11.2022      |           | US 4           | 2 * 45 min               |
+| 5.A  | 17.11.2022      |           | US 5           | 45 min               |
+| 6.A  | 17.11.2022      |           | US 6           | 45 min               |
+| 7.A  | 17.11.2022      |           | US 7           | 2 * 45 min               |
+| 8.A  | 17.11.2022      |           | US 8           | 2 * 45 min               |
+Total: 630 min
 
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns entschieden mit C# ein Programm zu programmieren, mit dem wir Wörter lernen können.
 
 ## 4 Realisieren
 
