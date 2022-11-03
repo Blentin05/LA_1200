@@ -4,11 +4,9 @@
 
 Deer Broder, Dakaj, Yildirim, Tosuni
 
-| Datum | Version | Zusammenfassung                                              |
-| 27.10.2022| 001| Wir haben uns zuerst informiert, über das Thema. Dann haben wir die User Stories erstellt, die Testfälle erstellt, das Diagramm erstellt und geplant.|
-|       |    |  |
-|       |     |                                                              |
-|       |   |                                                              |
+ |Datum|  Version|  Zusammenfassung| 
+ |---- | ---------------|---------------------------------- |
+ |27.10.2022| 001| Wir haben uns zuerst informiert, über das Thema. Dann haben wir die User Stories erstellt, die Testfälle erstellt, das Diagramm erstellt und geplant.|
 
 ## 1 Informieren
 
