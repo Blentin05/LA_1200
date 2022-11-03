@@ -80,7 +80,7 @@ Wir haben uns entschieden mit C# ein Programm zu programmieren, mit dem wir Wör
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
+| 1.A  | 03.11.2022      |Alle           |  2 * 45min     |nicht fertig       |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
