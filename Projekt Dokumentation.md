@@ -71,7 +71,7 @@ Wir programmieren ein Programm, wo man Wörter auf English lernen kann.
 | 7.A  | 10.11.2022      |           | US 7           | 2 * 45 min               |
 | 8.A  | 10.11.2022      |           | US 8           | 2 * 45 min               |
 | 9.A  | 10.11.2022      |           | US 9           | 2 * 45 min               |
-Total: 10
+Total: 675 min
 
 
 ## 3 Entscheiden
