@@ -7,6 +7,7 @@ Deer Broder, Dakaj, Yildirim, Tosuni
  |Datum|  Version|  Zusammenfassung| 
  |---- | ---------------|---------------------------------- |
  |27.10.2022| 001| Wir haben uns zuerst informiert, über das Thema. Dann haben wir die User Stories erstellt, die Testfälle erstellt, das Diagramm erstellt und geplant.|
+ |03.11.2022| 002| Wir haben angefangen zu programmieren. Wir sind nicht weit gekommen, aber wissen wie eine Arraylist funktioniert.|
 
 ## 1 Informieren
 
