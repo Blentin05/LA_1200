@@ -8,6 +8,7 @@ Deer Broder, Dakaj, Yildirim, Tosuni
  |---- | ---------------|---------------------------------- |
  |27.10.2022| 001| Wir haben uns zuerst informiert, über das Thema. Dann haben wir die User Stories erstellt, die Testfälle erstellt, das Diagramm erstellt und geplant.|
  |03.11.2022| 002| Wir haben angefangen zu programmieren. Wir sind nicht weit gekommen, aber wissen wie eine Arraylist funktioniert.|
+|10.11.2022| 003| Wir haben eine Arraylist erstellt und haben versucht mit der If else Schleife zu programmieren, dass wenn ein Wort richtig geschrieben wurde "richtig" ausgegeben wird und umgekehrt.|
 
 ## 1 Informieren
 
@@ -61,14 +62,14 @@ Wir programmieren ein Programm, wo man Wörter auf English lernen kann.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A |  03.11.2022      |           | US 1             | 2 *  45 min             |
-| 2.A  | 10.11.2022      |           | US 2             | 2 * 45 min               |
-| 3.A  | 10.11.2022      |           | US 3             | 2 * 45 min               |
-| 4.A  | 10.11.2022      |           | US 4           | 2 * 45 min               |
-| 5.A  | 17.11.2022      |           | US 5           | 45 min               |
-| 6.A  | 17.11.2022      |           | US 6           | 45 min               |
-| 7.A  | 17.11.2022      |           | US 7           | 2 * 45 min               |
-| 8.A  | 17.11.2022      |           | US 8           | 2 * 45 min               |
+| 1.A |  03.11.2022      |Dakaj          | US 1             | 2 *  45 min             |
+| 2.A  | 10.11.2022      |Tosuni, Dakaj           | US 2             | 2 * 45 min               |
+| 3.A  | 10.11.2022      |Yildirim         | US 3             | 2 * 45 min               |
+| 4.A  | 10.11.2022      |Broder          | US 4           | 2 * 45 min               |
+| 5.A  | 17.11.2022      |Tosuni          | US 5           | 45 min               |
+| 6.A  | 17.11.2022      |Dakaj           | US 6           | 45 min               |
+| 7.A  | 17.11.2022      |Yildirim           | US 7           | 2 * 45 min               |
+| 8.A  | 17.11.2022      |Broder           | US 8           | 2 * 45 min               |
 Total: 630 min
 
 
@@ -81,9 +82,9 @@ Wir haben uns entschieden mit C# ein Programm zu programmieren, mit dem wir Wör
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  | 03.11.2022      |Alle           |  2 * 45min     |nicht fertig       |
-| ...  |       |           |               |                   |
+| 1.A  | 10.11.2022     |Alle           |  270 min             | nicht fertig, länger als gedacht                  |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+Wir hatten die Zeit überschätzt, weil uns noch nicht klar war, wie wir das machen würden und wir uns informieren mussten. 
 
 ## 5 Kontrollieren
 
