@@ -104,6 +104,7 @@ Wir hatten die Zeit überschätzt, weil uns noch nicht klar war, wie wir das mac
 
 
 
+
 ## 6 Auswerten
 
 ✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
