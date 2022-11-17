@@ -5,31 +5,48 @@ Deer // Blentin Tosuni, Leon Dakaj, Ensar Yildirim, John Broder
 
 Wir haben im Lernatelier LA_1200 zum ersten Mal als Gruppe, einen Vokabelabfragesystem programmiert.
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
-
 ## Was habe ich gelernt?
 
-In diesem Projekt haben wir gelernt, wie man eine ```ArrayList``` anwendet und wozu sie gebraucht wird.
+In diesem Projekt haben wir gelernt, wie man eine ```List``` anwendet und wozu sie gebraucht wird.
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
 
 ## Beschreibung
-Im Gegensatz zu regulären Arrays, passt sich die ArrayList automatisch an die Anzahl an Zahlen, Wörter etc. an, die sich in der List befinden. Fügen wir Werte hinzu, oder entfernen wir Werte, so versteht die ArrayList direkt, dass sie Werte nachrücken muss. Es war uns also viel 
 
+Die List verwendet man, um z.B Wörter aufzulisten. Auf diese Wörter hat man einen Zugriff. Es ist ähnlich wie bei einem Array und einer Arraylist, es fängt bei 0 an und wenn Man will, dass das erste Wort ausgegeben wird, muss man die Zahl 0 eingeben. Anders als bei eine, Array oder einer Arraylist, kann man beliebig viele Wörter auflisten, jedoch kann man nur einen Datentyp verwenden, während man bei einem Array oder einer Arraylist beliebige Datentypen eingeben kann. Mit einer Arraylist, geht es viel einfacher die Wörter aufzulisten, denn es ist viel mühsamer alles einzeln aufzulisten.
 
+An diesem Beispiel sieht man es besser:
+```Csharp
+List<string> words = new List<string>();
+            words.Add("Spiel");
+            words.Add("Tanz");
+            words.Add("Ball");
+            words.Add("Feuer");
+            words.Add("Wasser");
+            words.Add("Messer");
+            words.Add("Brot");
+            words.Add("König");
+            words.Add("Bauer");
 
+            Console.WriteLine(words[0]);
+  ```
+  
+ 
+ Hier sieht man was ausgegeben wird:
+ 
+  ![image](https://user-images.githubusercontent.com/111045987/202412511-0ea3c084-064f-4bec-9fbb-90444bad800c.png)
 
-
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+         
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+
+Wie die Medien meinen Lernprozess aufzeigen: 
+
+Text: Beim Text kann man lesen, welche Schritte für eine List benötigt werden und wozu man die List braucht.
+
+Code: Der Code zeigt auf, wie die die List programmiert wird und wie Wörter in die List eingefügt werden.
+
+Bild: Das Bild zeigt nochmal, dass mein Ziel, auf ein Wort von der Liste zuzugreifen, funktioniert hat. 
 
 # Reflexion zum Arbeitsprozess
 
