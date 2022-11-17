@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 
 
-namespace Vocitrainer
+namespace vocabulary retrieval system
 {
     internal class Program
     {
