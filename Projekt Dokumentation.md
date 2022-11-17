@@ -92,13 +92,13 @@ Wir hatten die Zeit überschätzt, weil uns noch nicht klar war, wie wir das mac
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |17.11.2022|O.K|Tosuni,Yildirim,Dakaj,Broder|
-| 2.1  |17.11.2022|N.O.K|Tosuni,Yildirim,Dakaj,Broder|
-| 3.1  |17.11.2022|N.O.K|Tosuni,Yildirim,Dakaj,Broder|
-| 4.1  |17.11.2022|O.K|Tosuni,Yildirim,Dakaj,Broder|
-| 5.1  |17.11.2022|N.O.K|Tosuni,Yildirim,Dakaj,Broder|
-| 6.1  |17.11.2022|N.O.K|Tosuni,Yildirim,Dakaj,Broder|
-| 7.1  |17.11.2022|M.O.K|Tosuni,Yildirim,Dakaj,Broder|
+| 1.1  |17.11.2022|OK|Tosuni,Yildirim,Dakaj,Broder|
+| 2.1  |17.11.2022|NOK|Tosuni,Yildirim,Dakaj,Broder|
+| 3.1  |17.11.2022|NOK|Tosuni,Yildirim,Dakaj,Broder|
+| 4.1  |17.11.2022|OK|Tosuni,Yildirim,Dakaj,Broder|
+| 5.1  |17.11.2022|NOK|Tosuni,Yildirim,Dakaj,Broder|
+| 6.1  |17.11.2022|NOK|Tosuni,Yildirim,Dakaj,Broder|
+| 7.1  |17.11.2022|NOK|Tosuni,Yildirim,Dakaj,Broder|
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
