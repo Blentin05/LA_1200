@@ -14,7 +14,7 @@ In diesem Projekt haben wir gelernt, wie man eine ```ArrayList``` anwendet und w
 ✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
 
 ## Beschreibung
-
+Im Gegensatz zu regulären Arrays, passt sich die ArrayList automatisch an die Anzahl an Zahlen, Wörter etc. an, die sich in der List befinden. Fügen wir Werte hinzu, oder entfernen wir Werte, so versteht die ArrayList direkt, dass sie Werte nachrücken muss. Es war uns also viel 
 
 
 
