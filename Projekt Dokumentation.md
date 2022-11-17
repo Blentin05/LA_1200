@@ -9,6 +9,7 @@ Deer Broder, Dakaj, Yildirim, Tosuni
  |27.10.2022| 001| Wir haben uns zuerst informiert, über das Thema. Dann haben wir die User Stories erstellt, die Testfälle erstellt, das Diagramm erstellt und geplant.|
  |03.11.2022| 002| Wir haben angefangen zu programmieren. Wir sind nicht weit gekommen, aber wissen wie eine Arraylist funktioniert.|
 |10.11.2022| 003| Wir haben eine Arraylist erstellt und haben versucht mit der If else Schleife zu programmieren, dass wenn ein Wort richtig geschrieben wurde "richtig" ausgegeben wird und umgekehrt.|
+|17.11.2022|004|Wir haben den Lernbericht geschrieben und wir haben die Projektdokumentation fertig gestellt.|
 
 ## 1 Informieren
 
