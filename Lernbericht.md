@@ -50,8 +50,13 @@ Bild: Das Bild zeigt nochmal, dass mein Ziel, auf ein Wort von der Liste zuzugre
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Was lief gut?
 
-👎 und etwas, was nicht gut lief.
+Wir waren zu beginn des Projekts sehr Motiviert und wenn mal ein Problem aufgetaucht ist, haben wir immer probiert zusammen eine Lösung zu finden.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+
+Was lief nicht so gut?
+
+Wir haben die Zeit leider massiv unterschätzt und zusätzlich hatten wir wenig Vorahnung, was zu einem Problem führte und daher wurden wir nicht fertig und konnten einige Elemente des Codes nicht fertigstellen oder hinzufügen. Wir haben uns sehr bemüht und versucht möglichst viel für zukünftige Projekte mitzunehmen.
+
+**VBV**: Das nächste Mal müssen wir die Zeit besser planen und frühzeitig herausfinden, was wir bis am Schluss noch hinbekommen. Falls wir unnötige Dinge planen, sollen wir diese lieber weglassen und nur das wichtigste machen.
