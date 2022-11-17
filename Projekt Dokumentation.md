@@ -102,7 +102,7 @@ Wir hatten die Zeit überschätzt, weil uns noch nicht klar war, wie wir das mac
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-
+Wir haben den Voci Trainer versucht zu programmieren.Wir hatten die Zeit leider massiv unterschätzt, daher wurden wir nicht fertig und konnten einige Elemente des Codes nicht fertigstellen, oder hinzufügen. Wir haben uns sehr bemüht und versucht möglichst viel mitzunehemen für andere Projekte.Die Projektdokumentation ist sehr gut abgelaufen wir kammen schnell voran und hatten dadurch eine gute motivation, für den rest des Projektes.Unsere Team arbeit war aus unserer sicht Perfekt, wir haben uns sehr gut aufgeteilt und jeder hat etwas mitgenommen für die weiteren Projekte. Allgemein war es für uns ein sehr spannendes Projekt und wir haben viel aus dem Projekt gelernt.
 
 
 ## 6 Auswerten
