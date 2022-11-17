@@ -1,46 +1,51 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
-namespace Prk
+
+namespace Vocitrainer
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            List<string> woerter = new List<string>();
-            woerter.Add("cat"); 
-            woerter.Add("dog"); 
-            woerter.Add("one");
-            woerter.Add("two");
-            woerter.Add("three");
-            woerter.Add("four");
-            woerter.Add("five");
-            woerter.Add("six");
-            woerter.Add("seven"); 
+         
+            
+                List<string> words = new List<string>();
+            words.Add("cat");
+            words.Add("dog");
+            words.Add("one");
+            words.Add("two");
+            words.Add("three");
+            words.Add("four");
+            words.Add("five");
+            words.Add("six");
+            words.Add("seven");
+            
+                List<string> translation  = new List<string>();
            
-            foreach (string name in woerter)
-            {
-                Convert.ToString(woerter);
-                Console.WriteLine(name);
-                Console.ReadLine();         
-            }
+            foreach (string name in words)
+                {
+                    Convert.ToString(words);
+                    Console.WriteLine(name);
+                    Console.ReadLine();
+                    if (words[0] == "Katze")
+                    {
+                        Console.WriteLine("right");
+                    }
+                    else
+                    {
+                        Console.WriteLine("false");
+                    }
 
-            if (woerter[0] == "Katze")
-            {
-
-                Console.WriteLine("Richtig");
-            }
-            else
-            {
-                Console.WriteLine("falsch");
-            }
+                }
+            
            
+
             Console.ReadKey();
-
-
-
-
-
+            
+            
+               
+            
         }
     }
-}      
+}     
