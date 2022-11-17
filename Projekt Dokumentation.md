@@ -108,4 +108,4 @@ Wir haben versucht ein Vokabelabfragesystem zu programmieren. Wir haben die Zeit
 
 ## 6 Auswerten
 
-](https://github.com/Blentin05/LA_1200.md/blob/main/Lernbericht.md)
+(https://github.com/Blentin05/LA_1200.md/blob/main/Lernbericht.md)
